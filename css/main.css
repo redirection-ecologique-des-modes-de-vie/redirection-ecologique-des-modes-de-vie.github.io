@@ -53,10 +53,11 @@ h4 {
   margin: 0;
 }
 h1 {
-  font-family: GM, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 6rem;
-  padding: 5%;
-  margin: 0;
+  font-family: GA, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+  font-size: 10rem;
+  color: $philoikos-color;
+  padding-left: 0;
 }
 h2 {
   font-size: 3rem;
