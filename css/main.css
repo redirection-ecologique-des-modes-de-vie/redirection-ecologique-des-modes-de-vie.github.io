@@ -643,7 +643,7 @@ iframe {
   font-family: GL, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #ff7f50;
   text-align: center;
-  white-space: nowrap;
+  font-weight: 100;
 }
 #programme p {
   width: 60%;
