@@ -632,7 +632,7 @@ iframe {
     text-align: left;
   }
 }
-#pour-qui-container {
+.container {
   padding: 0 5% 5% 5%;
 }
 @media (min-width: 768px) {
