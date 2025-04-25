@@ -677,12 +677,12 @@ iframe {
 }
 @media (min-width: 768px) {
   #infos-container {
-    padding: 0 10% 5% 10%;
+    padding: 0 10% 3% 10%;
   }
 }
 @media (min-width: 920px) {
   #infos-container {
-    padding: 0 15% 5% 15%;
+    padding: 0 15% 0 15%;
   }
 }
 
