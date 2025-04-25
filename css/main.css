@@ -610,9 +610,7 @@ iframe {
 }
 @media (max-width: 768px) {
 }
-#programme {
-  padding: 5% 20% 5% 20%;
-}
+
 @media (max-width: 900px) {
   #programme {
     padding: 0 15% 7% 15%;
