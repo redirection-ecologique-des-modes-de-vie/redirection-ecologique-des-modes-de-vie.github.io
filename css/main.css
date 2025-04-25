@@ -51,6 +51,14 @@ p span {
   color: #842b24;
 }
 
+.brown {
+  color: #842b24;
+}
+
+.blue {
+  color: $philoikos-color;
+}
+
 li {
   font-family: GL, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 2.5rem;
