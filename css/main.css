@@ -713,6 +713,10 @@ iframe {
   padding-top: 5%;
 }
 
+#infos section {
+  padding-bottom: 0;
+}
+
 .mosaique,
 .mosaique-alt {
   position: absolute;
