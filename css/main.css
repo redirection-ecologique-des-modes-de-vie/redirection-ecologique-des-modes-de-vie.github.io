@@ -676,14 +676,31 @@ iframe {
   }
 }
 @media (min-width: 768px) {
-  #infos-container, #objectifs {
+  #infos-container {
     padding: 0 10% 3% 10%;
   }
 }
 @media (min-width: 920px) {
-  #infos-container, #objectifs {
+  #infos-container {
     padding: 0 15% 0 15%;
   }
+}
+@media (min-width: 768px) {
+  #infos-container {
+    padding: 0 15% 3% 15%;
+  }
+}
+@media (min-width: 920px) {
+  #infos-container {
+    padding: 0 20% 0 20%;
+  }
+}
+
+#inscription {
+  margin-bottom: 5%;
+}
+#william, #cyril {
+  padding: 0 0 5% 0;
 }
 
 #pour-qui-container p {
