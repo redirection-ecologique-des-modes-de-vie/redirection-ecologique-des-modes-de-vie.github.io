@@ -47,6 +47,10 @@ p {
   text-align: justify;
 }
 
+p span {
+  color: #842b24;
+}
+
 li {
   font-family: GL, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 2.5rem;
