@@ -675,6 +675,17 @@ iframe {
     padding: 0 17% 5% 17%;
   }
 }
+@media (min-width: 768px) {
+  #infos-container {
+    padding: 0 10% 5% 10%;
+  }
+}
+@media (min-width: 920px) {
+  #infos-container {
+    padding: 0 15% 5% 15%;
+  }
+}
+
 #pour-qui-container p {
   padding: 0 0 3% 0;
 }
