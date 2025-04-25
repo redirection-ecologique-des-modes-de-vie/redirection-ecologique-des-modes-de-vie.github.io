@@ -686,12 +686,12 @@ iframe {
   }
 }
 @media (min-width: 768px) {
-  #infos-container {
+  #objectifs {
     padding: 0 15% 3% 15%;
   }
 }
 @media (min-width: 920px) {
-  #infos-container {
+  #objectifs {
     padding: 0 20% 0 20%;
   }
 }
