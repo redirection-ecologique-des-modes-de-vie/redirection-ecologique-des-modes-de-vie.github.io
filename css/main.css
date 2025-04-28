@@ -641,6 +641,10 @@ iframe {
 #sommaire div {
   flex: 1;
 }
+#sommaire h3 {
+  font-family: GL;
+  margin-bottom: 1.5rem;
+}
 .themes-jour {
   width: 40%;
 }
