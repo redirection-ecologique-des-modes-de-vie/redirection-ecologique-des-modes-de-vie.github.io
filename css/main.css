@@ -1031,6 +1031,7 @@ svg {
 .perso-img {
   max-width: 100%;
   top: 0%;
+  border-radius: 50%;
 }
 .perso-header {
   padding-top: 5%;
