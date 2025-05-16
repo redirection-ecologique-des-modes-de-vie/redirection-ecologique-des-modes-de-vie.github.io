@@ -549,7 +549,7 @@ iframe {
   }
 }
 #bande {
-  height: 12vw;
+  height: 16vw;
   padding: 0 0 0 0;
   text-align: center;
   background-color: #47804d;
@@ -590,9 +590,14 @@ iframe {
 }
 #bande p {
   color: cornflowerblue;
+  font-size: 2rem;
+  padding: 0;
 }
 #bande #title {
   color: gold;
+}
+#bande #web {
+  font-size: 4rem;
 }
 @media (max-width: 480px) {
   #bande h2 {
