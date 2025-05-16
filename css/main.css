@@ -706,9 +706,6 @@ iframe {
   }
 }
 
-#inscription {
-  margin-bottom: 5%;
-}
 #william, #cyril {
   padding: 0 0 5% 0;
 }
@@ -924,22 +921,22 @@ svg {
   }
 }
 #inscription {
-  height: 12vh;
+  height: 20vh;
   padding: 0;
 }
 @media (min-width: 540px) {
   #inscription {
-    height: 15vh;
+    height: 25vh;
   }
 }
 @media (min-width: 768px) {
   #inscription {
-    height: 20vh;
+    height: 30vh;
   }
 }
 @media (min-width: 1280px) {
   #inscription {
-    height: 25vh;
+    height: 40vh;
   }
 }
 #butt-ins {
