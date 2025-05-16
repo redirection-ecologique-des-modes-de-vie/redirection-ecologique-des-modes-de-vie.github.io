@@ -588,8 +588,11 @@ iframe {
   padding: 1% 5% 0 5%;
   white-space: nowrap;
 }
-#bande p {
+#bande p a {
   color: cornflowerblue;
+}
+#bande p {
+  text-align: center
   font-size: 2rem;
   padding: 0;
 }
