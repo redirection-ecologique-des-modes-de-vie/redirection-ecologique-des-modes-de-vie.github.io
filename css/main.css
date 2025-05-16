@@ -594,7 +594,7 @@ iframe {
 #bande p {
   text-align: center
   font-size: 2rem;
-  padding: 0;
+  padding: 1% 0 0 0;
 }
 #bande #title {
   color: gold;
