@@ -123,9 +123,6 @@ h4 {
 h1 {
   color: #2b807b;
 }
-#bande {
-  background-color: #47804d;
-}
 #butt-ins {
   background-color: #f2cb70;
 }
@@ -552,8 +549,10 @@ iframe {
   }
 }
 #bande {
-  height: 8vw;
+  height: 12vw;
   padding: 0 0 0 0;
+  text-align: center;
+  background-color: #47804d;
 }
 
 #menu-atelier {
